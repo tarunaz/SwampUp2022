@@ -1,6 +1,6 @@
 {
-  "display_name": "sup016-training",
-  "description": "Swampup 2022 - SUP016 Automate Everything using JFrog CLI",
+  "display_name": "tarun-training",
+  "description": "Automate Everything using JFrog CLI",
   "admin_privileges": {
     "manage_members": true,
     "manage_resources": true,
@@ -9,6 +9,6 @@
     "allow_ignore_rules": true
   },
   "storage_quota_bytes": 1073741824,
-  "project_key": "sup016"
+  "project_key": "tarun"
 }
 
